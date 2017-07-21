@@ -1,4 +1,6 @@
-Definition of oss:
+blog post (19 july 2017)
+
+
 
 Types of oss:
 
@@ -7,7 +9,7 @@ It assumed that all open source software licenses are the same, but motivations 
 the most commonly used licenses are the:
 
 GNU General Public License - statistically used 68.8%
-***GPL is created by thr Free Software Foundation.***
+***GPL is created by thr Free Software Foundation.*
 -It provides the most outright rejection of typical proprietary software license terms.
 -It requires that if proprietary code is combined with GPL code the entire code must be distributed under the GPL.
 -provides that the distribution of a program containing any GPL code must be entirely distributed to the public.
@@ -62,5 +64,6 @@ Mozilla Public Licence-statistically used 0.60%
 -The MPL requires each person or entity that seeks to modify the MPL code to grant others a “world-wide, royalty-free, non-exclusive license . . . to use, reproduce, modify, display, perform, sublicense and distribute the Modifications created by” that person or entity.
 -The MPL allows proprietary software companies to protect their proprietary code from being subjected to open source license terms by putting it in files separate from any MPL or modified MPL code. However, if MPL code (modified or unmodified) is included in the same file as proprietary software, then the MPL provisions have a similar viral effect on the proprietary software as the GPL.
 -The MPL also includes a section on termination, providing that the license can be terminated automatically for a breach of the license terms and failure to cure within 30 days of becoming aware of such breach.
+
 
 
