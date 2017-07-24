@@ -1,0 +1,69 @@
+blog post (19 july 2017)
+
+
+
+Types of oss:
+
+It assumed that all open source software licenses are the same, but motivations for open source licensing vary because the license specifically defines what is and what is not allowed or permitted therefore the user should comply with the license or they will are in violation of the license. 
+
+the most commonly used licenses are the:
+
+GNU General Public License - statistically used 68.8%
+***GPL is created by thr Free Software Foundation.*
+-It provides the most outright rejection of typical proprietary software license terms.
+-It requires that if proprietary code is combined with GPL code the entire code must be distributed under the GPL.
+-provides that the distribution of a program containing any GPL code must be entirely distributed to the public.
+-requires that the entire work must be distributed in source code form and that a notice is attached to the work stating the work was created using GPL.
+
+
+
+GNU Lesser General Public License-statistically used 6.26% 
+
+-GNU LGPL provides more flexibility for those using both open source and proprietary software models. However, this flexibility is limited to the used of software libraries.
+
+-This license was designed to permit developers to link such libraries into non-open source programs. This addressed situations where there may be a special need to for a user to use a certain popular library. To achieve this, non-free programs must be allowed to use the library.
+
+-The LGPL provides that any licensee can distribute the relevant software library, as received, in source code format if proper copyright notices and warranty disclaimers, as well as a copy of the LGPL license, are provided with the code.
+
+-Distribution requirements governing modifications to the software library depend upon how the library is linked to the non-open source program.
+The LGPL distinguishes between works that contain code from the library and works that used the library.
+
+*Works that contain code from the library may be distributed if:
+-the modified work is also a software library
+-the modified files contain prominent notices of such modification and the dates thereof,
+-the whole work is licensed under the LGPL at no charge, and
+-the licensee makes a good faith effort to ensure that the library, as modified, is able to independently perform functions that are to be supplied by an application program, should the application fail to do so.
+
+*Works that use the library fall under the LGPL if:
+The library is not distributed in isolation
+The executable code contains a portion of the library. Then the LGPL licensee can distribute that work under license terms of the licensee’s choice provided that the license must allow “modification of the work for the customer’s own use and reverse engineering for debugging such modification.”	
+
+
+
+Berkeley Software Distribution License-statistically used 3.26%
+
+-The Berkeley Software Distribution is one of the less restrictive licenses that allow a user to obtain OSI certification.
+-Permits users to use the code under this license as they desire.
+-The primary requirement is that anyone using the code covered by the license must make reference to the copyright holder in accompanying documentation.
+-Use of this license increases the possibility that a users work may be incorporated into products that may be proprietary to someone else
+
+*Redistribution and use in source and binary forms under this license is permitted if:
+-Redistributions of source code must retain a copyright notice, this list of conditions and the following disclaimer.
+-Redistributions in binary form must reproduce a copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+-Neither the name of the <ORGANIZATION> nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+***THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.***
+
+
+
+Mozilla Public Licence-statistically used 0.60%
+
+-The Mozilla Public License is the most widely used license and most friendly for businesses.
+-The MPL provides the best mechanism for combining proprietary software with open source code without “tainting” the proprietary software.
+-The MPL also specifically parses copyright and patent rights granted under the license, and contains a defensive suspension mechanism for terminating MPL license rights as to a given licensee should that licensee bring an infringement claim against upstream MPL developers.
+-The MPL requires each person or entity that seeks to modify the MPL code to grant others a “world-wide, royalty-free, non-exclusive license . . . to use, reproduce, modify, display, perform, sublicense and distribute the Modifications created by” that person or entity.
+-The MPL allows proprietary software companies to protect their proprietary code from being subjected to open source license terms by putting it in files separate from any MPL or modified MPL code. However, if MPL code (modified or unmodified) is included in the same file as proprietary software, then the MPL provisions have a similar viral effect on the proprietary software as the GPL.
+-The MPL also includes a section on termination, providing that the license can be terminated automatically for a breach of the license terms and failure to cure within 30 days of becoming aware of such breach.
+
+
+
