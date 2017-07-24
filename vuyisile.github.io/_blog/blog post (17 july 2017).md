@@ -1,4 +1,4 @@
-Blog post (17 july 2017)#1
+Blog post (17 july 2017) #1
 
 Hello there!! today's blog post is a my reflection on the book or essey called "how to read a book: the ultimate guide" by Mortimer Adler.
 in the book he speaks of different types of reading and my understanding is that:
