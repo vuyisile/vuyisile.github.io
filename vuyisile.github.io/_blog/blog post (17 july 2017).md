@@ -1,7 +1,8 @@
-Blog post (17 july 2017) #1
+<h1>Blog post (17 july 2017)</h1>
 
 Hello there!! today's blog post is a my reflection on the book or essey called "how to read a book: the ultimate guide" by Mortimer Adler.
-in the book he speaks of different types of reading and my understanding is that:
+
+**in the book he speaks of different types of reading and my understanding is that:**
 
 1) Elementary - is reading without understanding or focusing on analysing a book.
 
