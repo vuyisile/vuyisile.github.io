@@ -1,6 +1,6 @@
 <h1>Blog post of the week!</h1>
 
-this week has been wonderful, we had an interesting task creating webpages. From that i learnt that every code should have a clean layout because we use similar but different resources to run them, so in order to accomodate most of the resourse we have make a general structure, example in HTML: using the **<div>** element with in the **<body>** element.  
+this week has been wonderful, we had an interesting task creating webpages. From that i learnt that every code should have a clean layout because we use similar but different resources to run them, so in order to accomodate most of the resourse we have make a general structure, example in HTML: using the **div** element with in the **body** element.  
 
 <h3>What to improve:</h3>
 
