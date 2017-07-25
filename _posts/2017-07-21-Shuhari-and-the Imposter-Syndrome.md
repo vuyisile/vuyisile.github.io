@@ -1,4 +1,9 @@
 
+---
+layout: post
+title:  "ShuHaRi vs Imposter-Syndrom"
+date:   2017-07-14 
+---
 
 hello there! so we were given task to read up on the Sh-ha-ri and the Imposter Syndrome.
 
