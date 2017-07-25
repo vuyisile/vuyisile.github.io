@@ -1,8 +1,8 @@
 
 ---
 layout: 
-title:  ShuHaRi vs Imposter-Syndrom
-date:   2017-07-14 
+title:  Shuhari-and-Imposter-Syndrom
+date:   2017-07-21 
 categories:	
 ---
 

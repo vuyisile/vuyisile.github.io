@@ -5,14 +5,14 @@ date:	2017-07-19
 categories:
 ---
 
-### Open Source Licences
+## Open Source Licences
 
 
 It assumed that all open source software licenses are the same, but motivations for open source licensing vary because the license specifically defines what is and what is not allowed or permitted therefore the user should comply with the license or they will are in violation of the license. 
 
 the most commonly used licenses are the:
 
-## GNU General Public License - statistically used 68.8%
+### GNU General Public License - statistically used 68.8%
 
 GPL is created by thr Free Software Foundation.
 -It provides the most outright rejection of typical proprietary software license terms.
@@ -20,7 +20,7 @@ GPL is created by thr Free Software Foundation.
 -provides that the distribution of a program containing any GPL code must be entirely distributed to the public.
 -requires that the entire work must be distributed in source code form and that a notice is attached to the work stating the work was created using GPL.
 
-## Berkeley Software Distribution License-statistically used 3.26%
+### Berkeley Software Distribution License-statistically used 3.26%
 
 -The Berkeley Software Distribution is one of the less restrictive licenses that allow a user to obtain OSI certification.
 -Permits users to use the code under this license as they desire.
