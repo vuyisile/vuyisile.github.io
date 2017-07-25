@@ -1,4 +1,10 @@
-Feedback on the Book "how to read a book: the ultimate guide"
+---
+layout: post
+title:  "Feedback on the Book "how to read a book: the ultimate guide""
+date:   2017-07-14 
+---
+
+### Feedback on the Book "how to read a book: the ultimate guide"
 
 Hello there!! today's blog post is a my reflection on the book or essey called "how to read a book: the ultimate guide" by Mortimer Adler.
 in the book he speaks of different types of reading and my understanding is that:
