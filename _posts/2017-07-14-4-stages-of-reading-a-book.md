@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: 
 title:  "Feedback on the Book "how to read a book: the ultimate guide""
 date:   2017-07-14 
+categories:
 ---
 
 ### Feedback on the Book "how to read a book: the ultimate guide"
