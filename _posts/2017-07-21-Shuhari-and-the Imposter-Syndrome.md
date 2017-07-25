@@ -1,7 +1,7 @@
 
 ---
 layout: 
-title:  "ShuHaRi vs Imposter-Syndrom
+title:  ShuHaRi vs Imposter-Syndrom
 date:   2017-07-14 
 categories:	
 ---

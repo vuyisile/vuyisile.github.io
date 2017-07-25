@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Feedback on team methodologies"
+title:  Agile-Methodology
 date:   2017-07-18 
 categories:	
 ---

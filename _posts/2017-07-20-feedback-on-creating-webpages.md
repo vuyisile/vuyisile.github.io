@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Feedback on creating webpages"
+title:  Feedback on creating webpages
 date:   2017-07-20
 categories:	
 ---
