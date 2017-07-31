@@ -14,7 +14,7 @@ the most commonly used licenses are the:
 
 ### GNU General Public License - statistically used 68.8%
 
-GPL is created by thr Free Software Foundation.
+GPL is created by the Free Software Foundation.
 -It provides the most outright rejection of typical proprietary software license terms.
 -It requires that if proprietary code is combined with GPL code the entire code must be distributed under the GPL.
 -provides that the distribution of a program containing any GPL code must be entirely distributed to the public.
