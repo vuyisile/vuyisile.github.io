@@ -1,7 +1,7 @@
 ---
 layout:
-title:
-date:
+title:	My general understanding of HTML
+date:	2017-07-31
 ---
 
 Hello there! just finished up with HTML, and this blog post is about what i have learned in html through freecodecamp.org.
