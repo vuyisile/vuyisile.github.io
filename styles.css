@@ -1,0 +1,57 @@
+.container-fluid{}
+.bounce{}
+
+nav{background-color:#222;}
+
+.text-white{color: whitesmoke;}
+
+.bg{background-color: #337ab7;}
+
+h1{font-family:Josefin Slab;
+  text-align: center; 
+   color: #222; 
+   font-size:70px;}
+
+ h2{font-family:Josefin Slab;
+   color: #337ab7; 
+    font-size: 40px; 
+    margin-bottom:50px;
+text-align:center;}
+
+#section1{overflow-y:auto;
+          background-color:#222}
+
+#section2{overflow-y:auto;
+          background-color:#333}
+
+#section3{overflow-y:auto;
+           background-color:#222}
+
+img{margin-bottom:50px}
+
+.p{font-size:20px;
+  margin-top:100px;}
+
+p{color:whitesmoke;
+  font-family:Josefin Slab;}
+.profile-pic{border: solid 6px;
+              border-radius:50%;
+              color:#333;}
+.portforlio-pic{text-align:center;}
+input{
+    display:block;
+    position: relative;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #bbb;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(187, 187, 187);
+}
+form{margin-top:50px;}
+.input{padding:8px;display:block;border:none;border-bottom:1px solid #ccc;width:100%; border-radius:6px;}
+
+label{font-size:30px; text-align:left;}
+.btn{padding:8px;display:block;border:none;border-bottom:1px solid #ccc;width:100%; border-radius:6px;
+font-size:30px; margin-bottom:50px;}
+
