@@ -1,5 +1,5 @@
 ---
-layout: center
+layout:
 title: Reflection based on Friday
 date: 2017-10-23
 ---
