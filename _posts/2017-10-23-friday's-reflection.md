@@ -4,6 +4,12 @@ title: Reflection based on Friday
 date: 2017-10-23
 ---
 
+
+
+
+
+
+
 # Reflection. 
 
 Failure, and how we respond to it, is where self-improvement lies. I often struggle to admit my weakness, because i fail to accept that something is beyond my capablities at that given time. 
