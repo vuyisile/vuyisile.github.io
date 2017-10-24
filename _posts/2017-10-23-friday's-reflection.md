@@ -6,9 +6,9 @@ date: 2017-10-23
 
 # Reflection. 
 
-Failure, and how we respond to it, is where self-improvement lies. I often struggle to admit my weakness because i don't believe in giving up no matter how long it takes me to reaching the goal.
+Failure, and how we respond to it, is where self-improvement lies. I often struggle to admit my weakness, because i fail to accept that something is beyond my capablities at that given time. 
 
-On friday we were given tasks and while I was sovling them, I had ideas of how to do them but one thing I did not do is completely understanding what is needed, because i assumed that I knew what is wanted and I only thought of what to use. After a reflection by one of our mentors, thought about what he said I realized that I wasn't solving the problems, I was writing code for the sake of finishing (which its time consuming because I took a lot of time trying to get the result wanted) and not think them through / breaking them down. 
+On friday we were given tasks and while I was sovling them, I had ideas of how to do them but one thing I did not do is completely understanding what is needed, because I assumed that I knew what is wanted and I only thought of what to use. After a reflection by one of our mentors, thought about what he said I realized that I wasn't solving the problems, I was writing code for the sake of finishing (which its time consuming because I took a lot of time trying to get the result wanted) and not think them through / breaking them down. 
 
 # What I think makes me fail to deliver.
 Is that:
