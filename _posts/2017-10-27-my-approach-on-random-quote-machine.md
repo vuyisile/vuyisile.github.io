@@ -4,7 +4,7 @@ title   : My approach on the random quote machine.
 date    : 2017-10-27
 ---
 
-### The Random Quote Machine.
+# The Random Quote Machine.
 
 In FreeCodeCamp I completed challenges under the ***JSON APIs and AJAX***, where I was learning how to get requests and diplay the reponse on canvas. 
 After those challenges, I was given the Random Quote Machine project to solved based on the JSON APIs and AJAX topic.
