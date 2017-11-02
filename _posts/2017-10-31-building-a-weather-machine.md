@@ -1,7 +1,8 @@
 ---
-layout  :
-title   : The Weather Machine
-date    : 2017-10-31
+layout   : post
+title    : "The Weather Machine"
+date     : 2017-10-31
+catergory:
 ---
 
 # The Local Weather Machine.
