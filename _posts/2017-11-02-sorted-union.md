@@ -1,7 +1,7 @@
 ---
-layout  :
-title   : The Sorted Union
-date    : 2017-11-02
+Layout  :
+Title   : The Sorted Union
+Date    : 2017-11-02
 ---
 
 # Sorted Union.
