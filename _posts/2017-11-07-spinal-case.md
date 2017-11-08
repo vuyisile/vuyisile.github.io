@@ -16,7 +16,7 @@ example: "This is spinal case" should change to "this-is-spinal-case".
 
 At first in mind, I had already thought of a way to solve this problem. What I did was split the string by white-spaces ,which returned an array and i looped through it and accessed every word (array[i]) and then I replace every first letter that is in upper case with its lower case form, then i joined the array by dashes ('-'). The good news is that it worked but for one type of situation, example: "This is spinal case".
 
-As I was checking the examples of situations at hand, I had a string that looks like this: "thisIsSplinalTap" and "A_Spinal_Tap_Is". This where I faced a challenge, so when Theo came and told me about regex match and asked me about the rules about or of the problem, I started by highlighting them.
+As I was checking the examples of situations at hand, I had a string that looks like this: "thisIsSplinalTap" and "A_Spinal_Tap_Is". This where I faced a challenge, so when Theo came and told me about regex match and asked me about the rules about of the problem, I started by highlighting them.
 
 The first rule is that all letters must be lower case, I worked on a situation like this - "thisIsSplinalTap", so to solve that I used the javascript's built in function .replace() which i used to separate the words by spaces replacing the position of regex = /([a-z])([A-Z])/g, in code form it looked like this - str.replace(/([a-z])([A-Z])/g,"$1 $2") after that I used another javascript function .toLowerCase() which change all of the text in str to lower case.
 
