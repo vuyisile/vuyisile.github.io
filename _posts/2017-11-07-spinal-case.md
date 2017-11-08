@@ -20,4 +20,4 @@ As I was checking the examples of situations at hand, I had a string that looks 
 
 The first rule is that all letters must be lower case, I worked on a situation like this - "thisIsSplinalTap", so to solve that I used the javascript's built in function .replace() which i used to separate the words by spaces replacing the position of regex = /([a-z])([A-Z])/g, in code form it looked like this - str.replace(/([a-z])([A-Z])/g,"$1 $2") after that I used another javascript function .toLowerCase() which change all of the text in str to lower case.
 
-Finally I worked on situations where I have symblos like underscore, example: "a_spinal_tap_is", which I also used .replace() to change /\s+|_/g to dashed.
+Finally I worked on situations where I have symblos like underscore, example: "a_spinal_tap_is", which I also used .replace() to change /\s+|_/g to dashes.
