@@ -1,7 +1,7 @@
 ---
-layout  :
-title   : Application Programming Interface
-date    : 2017-09-14
+Layout  :
+Title   : Application Programming Interface
+Date    : 2017-09-14
 ---
 
 #What is an API?

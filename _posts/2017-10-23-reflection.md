@@ -1,7 +1,7 @@
 ---
-layout:
-title: Reflection based on Friday
-date: 2017-10-23
+Layout:
+Title: Reflection based on Friday
+Date: 2017-10-23
 ---
 
 

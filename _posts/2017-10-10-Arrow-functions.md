@@ -1,7 +1,7 @@
 ---
-layout:
-title:	Arrow Functions
-date:	2017-10-10
+Layout:
+Title:	Arrow Functions
+Date:	2017-10-10
 ---
 ### Arrow functions.
 

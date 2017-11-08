@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  Agile-Methodology
-date:   2017-07-18 
-categories:	
+Layout: post
+Title:  Agile-Methodology
+Date:   2017-07-18 
 ---
 ### Feedback on team methodologies
 

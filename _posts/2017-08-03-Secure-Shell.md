@@ -1,7 +1,7 @@
 ---
-layout:
-title:	Secure Shell
-date:	2017-08-03
+Layout:
+Title:	Secure Shell
+Date:	2017-08-03
 ---
 
 ### SSH- Secure Shell

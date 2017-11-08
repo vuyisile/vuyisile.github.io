@@ -1,7 +1,7 @@
 ---
-layout  :
-title   : My approach on the random quote machine.
-date    : 2017-10-27
+Layout  :
+Title   : My approach on the random quote machine.
+Date    : 2017-10-27
 ---
 
 # The Random Quote Machine.

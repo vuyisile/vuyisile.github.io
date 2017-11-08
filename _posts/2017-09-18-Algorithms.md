@@ -1,7 +1,7 @@
 ---
-layout  :
-title   : Algorithms
-date    : 2017-09-18
+Layout  :
+Title   : Algorithms
+Date    : 2017-09-18
 ---
 
 #Algorithm

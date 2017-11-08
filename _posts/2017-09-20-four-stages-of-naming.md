@@ -1,7 +1,7 @@
 ---
-layout  :
-title   : Four stages of naming
-date    : 2017-09-20
+Layout  :
+Title   : Four stages of naming
+Date    : 2017-09-20
 ---
 
 

@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  Feedback-on-creating-webpages
-date:   2017-07-20
-categories:	
+Layout: post
+Title:  Feedback-on-creating-webpages
+Date:   2017-07-20	
 ---
 
 ### Feedback on creating webpages

@@ -1,7 +1,7 @@
 ---
-layout  :
-title   : Event Handlers
-date    : 2017-09-12
+Layout  :
+Title   : Event Handlers
+Date    : 2017-09-12
 ---
 
 #Event-Handler Defination

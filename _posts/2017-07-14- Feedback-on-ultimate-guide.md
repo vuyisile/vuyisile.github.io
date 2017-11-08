@@ -1,8 +1,7 @@
 ---
-layout: 
-title: 	Feedback-on-ultimate-guide
-date:   2017-07-14 
-categories:
+Layout: 
+Title: 	Feedback-on-ultimate-guide
+Date:   2017-07-14 
 ---
 
 ## Feedback on the Book "how to read a book: the ultimate guide"

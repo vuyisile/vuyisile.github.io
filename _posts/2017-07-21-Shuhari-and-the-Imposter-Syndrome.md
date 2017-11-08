@@ -1,7 +1,7 @@
 ---
-layout: 
-title:  Shuhari-and-Imposter-Syndrome
-date:   2017-07-21 
+Layout: 
+Title:  Shuhari-and-Imposter-Syndrome
+Date:   2017-07-21 
 categories:	
 ---
 

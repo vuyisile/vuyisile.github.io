@@ -1,7 +1,7 @@
 ---
-layout:
-title:	HTTP vs HTTPS
-date:	2017-08-02
+Layout:
+Title:	HTTP vs HTTPS
+Date:	2017-08-02
 ---
 
 ### Comparing HTTP and HTTPS.

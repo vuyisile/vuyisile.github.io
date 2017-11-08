@@ -1,7 +1,7 @@
 ---
-layout:
-title:	ECMAScript6
-date:	2017-08-07	
+Layout:
+Title:	ECMAScript6
+Date:	2017-08-07	
 ---
 
 The JavaScript timeline (focus on standardization)

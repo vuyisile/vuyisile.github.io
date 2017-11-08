@@ -1,8 +1,7 @@
 ---
 Layout:	
-title:	Researching-different-OSS  
-date:	2017-07-19
-categories:
+Title:	Researching-different-OSS  
+Date:	2017-07-19
 ---
 
 ## Open Source Licences

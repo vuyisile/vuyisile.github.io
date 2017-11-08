@@ -1,7 +1,7 @@
 ---
-layout  :
-title   : Solving the wiki viewer.
-date    : 2017-10-30
+Layout  :
+Title   : Solving the wiki viewer.
+Date    : 2017-10-30
 ---
 
 # The Wikipedia Viewer.

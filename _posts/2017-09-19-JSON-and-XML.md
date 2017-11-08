@@ -1,7 +1,7 @@
 ---
-layout  :
-title   : JSON vs XML
-date    : 2017-09-19
+Layout  :
+Title   : JSON vs XML
+Date    : 2017-09-19
 ---
 
 #JSON vs XML.

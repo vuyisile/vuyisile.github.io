@@ -1,7 +1,7 @@
 ---
-layout  :
-title   : Internet Of Things
-date    : 2017-09-15
+Layout  :
+Title   : Internet Of Things
+Date    : 2017-09-15
 ---
 
 #Internet of Things 
