@@ -26,6 +26,10 @@ I wrote my algorithm in psudo code if given 4 as an input.
 Therefore this how i presented it in my note book:
 
 I imagined I have 2 variables one that holds the current value and another that holds the previous value. My current value is equals to 1 and less that the given input (4),
-and my previous value is equals 0. then I decleared a new variable that holds the results as in form of a list.
+and my previous value is equals 0. Then I decleared a new variable that holds the results as in form of a list, where I store my current value.
 
-From there, if
+From there, the idea is to make the current value and the previous value change until it reaches the given input(4) which will be our limit starting from the current value which is equals to 1. In order to make the the current value increase or change wrote [currentValue = currentValue + previousValue] and for previous value I wrote [previousValue = currentValue - previousValue], and result will alway append currentValue [result += currentValue].
+
+The next step was to make result exclude all even number, I had a loop that iterates to the limite of the given input [while(currentValue <= Input)] and inside the loop I had a conditional statement that check if currentValue is divisible by 2 but the remainder is not 0 [if(currentValue%2 !== 0)], then I moved result in side the conditional statement.
+
+After that, I created a new variable called sum which is equals 0 and a new loop that will iterate through result (for(var i in result), in side the loop I added every element or number in result [sum += result[i]], and finally I returned sum.
