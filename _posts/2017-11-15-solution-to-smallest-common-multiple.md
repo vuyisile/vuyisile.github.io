@@ -3,8 +3,12 @@ Layout:
 Title: Smallest common multiple (the solution)
 Date: 2017-11-15
 ---
+# Solution to Smallest Common Multiple.
 
-## Rules of this problem.
+Flash back from lastime, when I had a tough time solving this problem, because finding a common multiple between the minimum number and the maximum number was difficult considering I had to consider the fact that the multiple should also be common to all sequential numbers in the range between these parameters.
+This is continuing from where I left.
+
+## Re-checking the rules of this problem.
 
 -   Find the smallest common multiple of the provided parameters that can be evenly divided by both, as well as by all sequential numbers in the range between these parameters.
 
