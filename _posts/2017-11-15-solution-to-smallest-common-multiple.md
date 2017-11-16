@@ -5,7 +5,7 @@ Date: 2017-11-15
 ---
 # Solution to Smallest Common Multiple.
 
-Flash back from lastime, when I had a tough time solving this problem, because finding a common multiple between the minimum number and the maximum number was difficult considering I had to consider the fact that the multiple should also be common to all sequential numbers in the range between these parameters.
+Just a reminder, lastime I had a tough time solving this problem, because finding a common multiple between the minimum number and the maximum number was difficult considering I had to consider the fact that the multiple should also be common to all sequential numbers in the range between these parameters.
 This is continuing from where I left.
 
 ## Re-checking the rules of this problem.
