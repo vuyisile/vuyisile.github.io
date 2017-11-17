@@ -1,0 +1,5 @@
+---
+Layout:
+Title:
+Date:
+---
