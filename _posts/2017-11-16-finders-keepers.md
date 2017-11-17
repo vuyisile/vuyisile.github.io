@@ -18,10 +18,11 @@ I created a function titled findElement, inside the function I declared a variab
 
 
 ### Solution.
-<!-- 
-function findElement(arr, func) {
-  var num = 0;
-  var filteredArr = arr.filter(func);
-  return filteredArr[0];
-} 
--->
+
+                <!-- 
+                function findElement(arr, func) {
+                var num = 0;
+                var filteredArr = arr.filter(func);
+                return filteredArr[0];
+                } 
+                -->
