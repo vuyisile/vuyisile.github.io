@@ -47,23 +47,23 @@ From there, I then created a while loop to compared my **len** with **m**, where
    ### Solution in Code form.
 
         <!-- 
-            function dropElements(arr, func) {
-                // Drop them elements.
-                 var len = arr.length;
-                 var m = 0;
-                 while(m < len){
+        function dropElements(arr, func) {
+            // Drop them elements.
+            var len = arr.length;
+            var m = 0;
+            while(m < len){
     
-                    if(!func(arr[0])){
-                        arr.shift();
-                    }else{
-                        break;
-                    }
-    
-                    m++;
+               if(!func(arr[0])){
+                  arr.shift();
+               }else{
+                  break;
                 }
+    
+               m++;
+             }
   
-                return arr;
-            }
+           return arr;
+        }
 
-            dropElements([1, 2, 3, 7, 4], function(n) {return n >= 3; }); 
-            -->
+        dropElements([1, 2, 3, 7, 4], function(n) {return n >= 3; }); 
+        -->
