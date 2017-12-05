@@ -1,7 +1,7 @@
 ---
 Layout:
-Title: 
-Date:
+Title: Everything Be True
+Date:   2017-11-22
 ---
 
 # Everything Be True.

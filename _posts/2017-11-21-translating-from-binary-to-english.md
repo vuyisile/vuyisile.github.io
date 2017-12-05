@@ -1,7 +1,7 @@
 ---
 Layout:
 Title: Translate from Binary to English.
-Date:
+Date: 2017-11-21
 ---
 
 # Binary Agents.

@@ -1,7 +1,7 @@
 ---
 Layout:
 Title: Solving The Steam-roll Array.
-Date:
+Date:  2017-11-20
 ---
 
 # The Steamroller.
