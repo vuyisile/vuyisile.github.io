@@ -8,6 +8,14 @@ Date:
 
 ## Overview
 
+I was given this challenge (make-a-person) in free-code-camp,from this challenge I learned about Closures and Details of the object model.
+
+what is a Closure?- It is the combination of a function and the lexical environment within which that function was declared. 
+A Lexical Environment is a specification type used to define the association of Identifiers to specific variables and 
+functions based upon the lexical nesting structure of ECMAScript code.
+
+Details of the object model- JavaScript is an object-based language based on prototypes, rather than being class-based. Because of this different basis, 
+it can be less apparent how JavaScript allows you to create hierarchies of objects and to have inheritance of properties and their values. 
 
 
 ## Instructions
