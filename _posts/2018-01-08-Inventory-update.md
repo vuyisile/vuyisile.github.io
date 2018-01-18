@@ -24,6 +24,8 @@ Compare and update the inventory stored in a 2D array against a second 2D array 
 If an item cannot be found, add the new item and quantity into the inventory array. The returned inventory array should be in alphabetical order by item.
 
 
+
+# My Approach
 ## Code
         function updateInventory(arr1, arr2) {
         var con = arr1.concat(arr2);
@@ -77,5 +79,5 @@ If an item cannot be found, add the new item and quantity into the inventory arr
         updateInventory(curInv, newInv);
 
 
-## My Approach
+
 
