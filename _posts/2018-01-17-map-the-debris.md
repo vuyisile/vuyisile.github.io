@@ -8,6 +8,13 @@ Date:
 
 ## Overview
 
+In this article I will be explaining how I solved the Map-the-debris challenge, which was based on calculating the **orbital period** and from the instructions, 
+my function should return a new array with one or more objects, 
+that contains a name and the orbital period based on the given average altitude. 
+
+The **orbital period** is the time a given astronomical object takes to complete one orbit around another object, 
+and applies in astronomy usually to planets or asteroids orbiting the Sun, moons orbiting planets, 
+exoplanets orbiting other stars, or binary stars.
 
 
 ## Instructions
@@ -23,7 +30,15 @@ Date:
     The radius of the earth is 6367.4447 kilometers, and the GM value of earth is 398600.4418 km3s-2.
 
 
-# My Approach
+# My Approach:
+
+## The Logic:
+
+I given a function with one parameter which is accepted as an array of json, each object has a **name** and an **average altitude**(altAvg). 
+I am also given constant values of variables-**GM** and **earthRadius**.
+
+
+
 
 ## Code:
     function orbitalPeriod(arr) {

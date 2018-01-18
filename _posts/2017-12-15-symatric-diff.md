@@ -7,33 +7,31 @@ Date:
 # Symatric Difference
 
 ## Overview
+In mathematics, the symmetric difference, also known as the disjunctive union, of two sets 
+is the set of elements which are in either of the sets and not in their intersection. 
+The symmetric difference of the sets A and B is commonly denoted by
 
-    In mathematics, the symmetric difference, also known as the disjunctive union, of two sets 
-    is the set of elements which are in either of the sets and not in their intersection. 
-    The symmetric difference of the sets A and B is commonly denoted by
+A △ B , {\displaystyle A\,\triangle \,B,} {\displaystyle A\,\triangle \,B,}
 
-        A △ B , {\displaystyle A\,\triangle \,B,} {\displaystyle A\,\triangle \,B,}
+or
 
-    or
+A ⊖ B , {\displaystyle A\ominus B,} A\ominus B,
+or
 
-        A ⊖ B , {\displaystyle A\ominus B,} A\ominus B,
+A ⊕ B . {\displaystyle A\oplus B.} A\oplus B.
 
-    or
-
-        A ⊕ B . {\displaystyle A\oplus B.} A\oplus B.
-
-    For example, the symmetric difference of the sets { 1 , 2 , 3 } {\displaystyle \{1,2,3\}} \{1,2,3\} 
-    and { 3 , 4 } {\displaystyle \{3,4\}} \{3,4\} is { 1 , 2 , 4 } {\displaystyle \{1,2,4\}} \{1,2,4\}.
+For example, the symmetric difference of the sets { 1 , 2 , 3 } {\displaystyle \{1,2,3\}} \{1,2,3\} 
+and { 3 , 4 } {\displaystyle \{3,4\}} \{3,4\} is { 1 , 2 , 4 } {\displaystyle \{1,2,4\}} \{1,2,4\}.
 
 
 ## Instructions
 
-    Create a function that takes two or more arrays and returns an array of the symmetric difference (△ or ⊕) of the provided arrays.
+Create a function that takes two or more arrays and returns an array of the symmetric difference (△ or ⊕) of the provided arrays.
 
-    Given two sets (for example set A = {1, 2, 3} and set B = {2, 3, 4}), 
-    the mathematical term "symmetric difference" of two sets is the set of elements which are in either of the two sets, 
-    but not in both (A △ B = C = {1, 4}). For every additional symmetric difference you take (say on a set D = {2, 3}),
-    you should get the set with elements which are in either of the two the sets but not both (C △ D = {1, 4} △ {2, 3} = {1, 2, 3, 4}).
+Given two sets (for example set A = {1, 2, 3} and set B = {2, 3, 4}), 
+the mathematical term "symmetric difference" of two sets is the set of elements which are in either of the two sets, 
+but not in both (A △ B = C = {1, 4}). For every additional symmetric difference you take (say on a set D = {2, 3}),
+you should get the set with elements which are in either of the two the sets but not both (C △ D = {1, 4} △ {2, 3} = {1, 2, 3, 4}).
 
 
 
