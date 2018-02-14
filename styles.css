@@ -1,59 +1,73 @@
 .container-fluid{}
 .bounce{}
 .container{}
-nav{background-color:#222; 
-     position: relative;
-    overflow-y:auto;}
 
 .text-white{color: whitesmoke;}
 
-.bg{background-color: #337ab7;}
+.bg{background-color: #E0E0E0;}
 
-h1{font-family:Josefin Slab;
-  text-align: center; 
-   color: #222; 
-   font-size:70px;
-  margin-top: 100px;}
+h1{
+    font-family:'Josefin Slab';
+    text-align: center; 
+    color: #222; 
+    font-size:70px;
+    margin-top: 100px;
+    }
+
 
  h2{font-family:Josefin Slab;
-   color: #337ab7; 
+     color: #222; 
     font-size: 40px; 
     margin-bottom:50px;
 text-align:center;}
 
-#section1{overflow-y:auto;
-          background-color:#222;
-          background-image: url("sec1.jpg");
-          -webkit-filter: grayscale(20%);
-          filter: grayscale(30%);}
+#section1{
+        overflow-y:auto;
+        background-color:#EEEEEE;
+         border: 8px solid;
+      border-radius:8px;
+      border-color:#EEEEEE;
+        box-shadow: 0px 4px 4px 4px #9E9E9E;
+        }
 
-#section11{overflow-y:auto;
-          background-color:#222;
-          background-image: url("sec2.jpg");
-          background-repeat: no-repeat;
-          background-size: 100%; }
+#section11{
+        overflow-y:auto;
+        background-color:#EEEEEE;
+        border: 8px solid;
+        border-radius:8px;
+        border-color:#EEEEEE;
+        box-shadow: 0px 4px 4px 4px #9E9E9E;
+        }
 
-#section2{overflow-y:auto;
-          background-color:#333;
-          background-image: url("sec3.1.jpg");
-          background-repeat: no-repeat;
-          background-size: 102%;}
+#section2{
+        overflow-y:auto;
+        background-color:#EEEEEE;
+        border: 8px solid;
+        border-radius:8px;
+        border-color:EEEEEE;
+        box-shadow: 0px 4px 4px 4px #9E9E9E;}
 
 #section3{overflow-y:auto;
-           background-color:#222}
+        background-color:#EEEEEE;
+        border: 8px solid;
+        border-radius:8px;
+        border-color:#EEEEEE;
+        box-shadow: 0px 4px 4px 4px #9E9E9E;}
 
 img{margin-bottom:50px}
 
 .p{margin-top:100px;
     margin-bottom: 110px;}
 
-p{color:whitesmoke;
+p{color: #222;
   font-family:Josefin Slab;
   font-size:20px;
   margin-bottom:50px}
 .profile-pic{border: solid 6px;
-              border-radius:50%;
-              color:#333;}
+              border-radius:4%;
+              border-color:#EEEEEE;
+              box-shadow: 0px 4px 2px 2px #9E9E9E;
+              }
 .portforlio-pic{text-align:center;}
 input{
     display:block;
@@ -64,13 +78,26 @@ input{
     border-bottom-width: 1px;
     border-bottom-style: solid;
     border-bottom-color: rgb(187, 187, 187);
+    box-shadow: 0px 4px 2px 2px #9E9E9E;
 }
-form{margin-top:50px;}
-.input{padding:8px;display:block;border:none;border-bottom:1px solid #ccc;width:100%; border-radius:6px;}
+
+form{margin-top:50px;
+    }
+
+.input{padding:8px;display:block;border:none;border-bottom:1px solid #78909C;width:100%; border-radius:6px;box-shadow: 0px 4px 2px 2px #9E9E9E;}
 
 label{font-size:30px; text-align:left;}
-.btn{padding:8px;display:block;border:none;border-bottom:1px solid #ccc;width:100%; border-radius:6px;
-font-size:30px; margin-bottom:50px;}
+
+.btn{padding:8px;
+    display:block;
+    border:none;
+    border-bottom:1px solid #ccc;
+    width:100%; 
+    border-radius:6px;
+    font-size:30px; 
+    margin-bottom:50px;
+    box-shadow: 0px 4px 2px 2px #9E9E9E;
+    background-color: #78909C}
 
 .bg-filter{-webkit-filter: grayscale(20%);
     filter: grayscale(20%);
@@ -86,3 +113,43 @@ font-size:30px; margin-bottom:50px;}
 
 
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    text-align: right;
+    resize: horizontal;
+    overflow: auto;
+}
+
+li {
+    float: left;
+    width:150px;
+}
+
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+li a:hover {
+    background-color: #4CAF50;
+   
+}
+ 
