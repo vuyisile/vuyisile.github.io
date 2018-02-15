@@ -8,7 +8,8 @@
     background-image: url('matthieu-joannon-409754.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: 100%; 
+    background-position: center; 
+     background-size: auto;
     }
 
 h1{font-weight: bold;
