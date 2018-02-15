@@ -4,7 +4,12 @@
 
 .text-white{color: whitesmoke;}
 
-.bg{background-color: #E0E0E0;}
+.bg{background-color: #E0E0E0;
+    background-image: url('matthieu-joannon-409754.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 100%; 
+    }
 
 h1{font-weight: bold;
    text-transform: uppercase;
@@ -16,7 +21,7 @@ h1{font-weight: bold;
     }
 
 
- h2{color: #222; 
+ h2{color: white; 
     font-size: 40px; 
     margin-bottom:50px;
     text-align:center;
@@ -24,21 +29,21 @@ h1{font-weight: bold;
 
 #section1{
         overflow-y:auto;
-        background-color:#E0E0E0;
+        background-color:none;
 }
 
 #section11{
        overflow-y:auto;
-        background-color:#E0E0E0;
+        background-color:none;
         }
 
 #section2{
-  overflow-y:auto;
-        background-color:#E0E0E0;
+        overflow-y:auto;
+        background-color:none;
         }
 
 #section3{overflow-y:auto;
-        background-color:#E0E0E0;
+        background-color:none;
         }
 
 img{margin-bottom:50px}
@@ -47,7 +52,7 @@ img{margin-bottom:50px}
     margin-bottom: 110px;
     font-family: closeness;}
 
-p{color: #222;
+p{color: white;
   font-size:20px;
   font-family: closeness;
   margin-bottom:50px}
