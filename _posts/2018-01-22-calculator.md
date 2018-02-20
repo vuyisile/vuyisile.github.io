@@ -107,7 +107,7 @@ You can get feedback on your project by sharing it with your friends on Facebook
         return true;
     }
 
-    function clearEntry() {
+    function removeLast() {
         var id = document.getElementById("input-box");
         var value = id.value;
         value = value.substring(0, value.length - 1);
@@ -151,6 +151,9 @@ to a variable, and then calling eval() at a later point in your script.
 If the argument of eval() is not a string, 
 eval() returns the argument unchanged. 
 
+I created a **clear-all() function**, which removes or deletes everything thats in my-screen (input-box). I also had another function decleared as **removeLast()** which is more like a "backspace" button because it deletes the last character from a string.  
 
 
 ## Conclusion
+
+This code can be refactored and reduced to something simple, but my goal here was to make it understandable, obvious and clear because sometimes small/short code or less code could be complex for the next person who would want to read the code.
