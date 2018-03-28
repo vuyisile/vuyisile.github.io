@@ -1,52 +1,85 @@
 <!DOCTYPE html>
-<html lang="en" >
-
+<html>
 <head>
-  <meta charset="UTF-8">
-  <title>A Pen by  vuyisile</title>
-  
-  
-  <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.2/css/bootstrap.css'>
+<title>DedgaStyles</title>
 
-      <link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-  
+<link rel="stylesheet" type="text/css" href="styles.css" media="screen" />
 </head>
+<body class="bg container-fluid">
 
-<body>
 
-  <html>
-
-<body>
- 
-  <center>
-    <div><h1>Pomodoro Clock</h1></div>
-    <div><h6>by Vuyisile</h6></div>
-    <br/>
-  <div id="timer-container" class="row container">
-    <div class="col-md-6">st:<input type="number" id="setMin" min ="1"  max="60"/></div>
-    <div class="col-md-6">bt:<input type="number" id="breaktime" min ="1"  max="60" /></div>
-    <div class="col-md-12"><button onclick="setTimer();countdown();" class='btn btn-success'>start</button></div>
-    <div class="col-md-6 align-lf">Time:</div>
-    <div class="col-md-12"><span id="timer">0:00</span></div>
-    <div class="col-md-6 align-lf">B-Time:</div>
-    <div class="col-md-12"><span id="btime">0:00</span></div>
-    <div class="col-md-6 align-lf">Sessions:</div>
-    <div class="col-md-12"><span id="session">0</span></div>
-    <div class="col-md-6"><button onclick="stopAlarm()" class='btn btn-danger'>stop alarm</button></div>
-    <div class="col-md-6"><button onclick="resetAll();" class='btn btn-danger'>reset</button></div>
-  </div>
-  </center>
-</body>
-
-</html>
+<div class ="main">
+        <div class="row navbar-fixed-top">
+          <!--  <nav class = "col-md-12 navbar">
+                <div class="col-md-1">
+                    <a class="text-white" href="#section1" >About</a>
+                </div>    
+                <div class="col-md-1">       
+                    <a class="text-white"  href="#section2">Portfolio</a>
+                </div>
+                <div class="col-md-1">          
+                    <a class="text-white"  href="#section3">Contact</a>           
+                </div>
+		<div class="col-md-1">          
+                    <a class="text-white"  href="https://vuyisile.github.io/blog">Blog</a>           
+                </div>
+            </nav>    -->
+            <ul>
+  <li><a class="text-white" href="#section1" >About</a></li>
+  <li><a class="text-white" href="#section2">Portfolio</a></li>
+  <li><a class="text-white" href="#section3">Contact</a></li>
+  <li><a class="text-white" href="https://vuyisile.github.io/blog">Blog</a> </li>
+</ul>
+        </div>
+  
+ <div class ="head" class="row"><div class="col-md-12"><h1 class="bounce">Vuyisile Weni</h1></div></div>
   
   
 
-    <script  src="js/index.js"></script>
+  
+<section id="section1" class="container"><div><div class="row">
+  <div class="col-md-12"><h2>About me</h2></div>
+  <div class="col-md-8"><div><p class="p">Currently learning 3D Designing (Blender) and JavaScript. Have Basic knowledge in HTML and
+Python. Groomed by professional programmers to become a Software Developer. </p>
+</div></div>
+  <div class="col-md-4"><img class="profile-pic" src="https://raw.githubusercontent.com/vuyisile/vuyisile.github.io/master/codepen/profile-pic.jpg" alt="img" style="width:304px;height:400px;"></div>
+  
+</div></div>
+</section><br>
 
 
+<section id="section11" class="container"><div class="row"><div class="col-md-12"><h2>Interests</h2></div>
+	 <div class="col-md-12"><p class="p">Growing up, I've always liked practicing extreme-sports, drawing and dancing. Recently my hobbies were exercising and watching movies. I was introduced to computers and how they work so I got interested in learning more about them and leanerning how to create applications. I used to study Information Technology at school and took programming lesson at Sisonke Rising, and now i am at The Coding Ground building up on my programming skills. </p></div>
 
+</section><br>
+
+  
+<section id="section2" class="container"><div class="row"><div class="col-md-12"><h2>Portfolio</h2>
+  <div class="col-md-6"><center ><img src="https://raw.githubusercontent.com/vuyisile/vuyisile.github.io/master/Screenshot%20from%202017-08-04%2013-56-55.png" alt="img" style="width:404px;height:250px;"></div></center>
+  <div class="col-md-6"><center><img  src="https://raw.githubusercontent.com/vuyisile/vuyisile.github.io/master/Screenshot%20from%202017-08-08%2011-38-18.png" alt="img" style="width:404px;height:250px;"></div></center>
+  <div class="col-md-6"><center><img  src="https://raw.githubusercontent.com/vuyisile/vuyisile.github.io/master/codepen/profile-pic.jpg" alt="img" style="width:304px;height:350px;"></div></center>
+  <div class="col-md-6"><center><img  src="https://raw.githubusercontent.com/vuyisile/vuyisile.github.io/master/Screenshot%20from%202017-08-08%2011-42-50.png" alt="img" style="width:404px;height:250px;"></div></center>
+</div></div></section><br>
+  
+<section id="section3" class="container"><div class="row"><div class="col-md-12"><h2>Get in touch</h2</div>
+   <form>
+  <div class="col-md-4"><label>Name</label><br></div>
+  <div class="col-md-8"><input class="input" required="" type="text" name="name"><br></div>
+  <div class="col-md-4"><label>Email</label><br></div>
+  <div class="col-md-8"><input class="input" required="" name="Email" type="text"><br></div>
+   <div class="col-md-4"><label>Message</label><br></div>
+  <div class="col-md-8"><textarea class="input" required="" name="message" type="text"></textarea><br></div>
+<div class="col-md-12"><button type="submit" class="btn">Send</button></div>
+</form> 
+</section>
+
+  
+<div class ="row footer container-fluid"><div class="col-md-12"><center><h6>Dedga 2017</h6></center></div></div>
+        
+    </div>
+</div>
 
 </body>
 
