@@ -142,7 +142,7 @@ a{
 }
 
 
-#head{
+.head{
     background-image: url('aziz-acharki-253909.jpg');
     height: 400px;
     background-repeat: no-repeat;
