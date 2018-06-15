@@ -4,7 +4,6 @@ Title:  "Creating a Markdown-Previewer"
 Date:   2018-03-20
 ---
 
-# Creating a Markdown-Previewer
 
 ## Overview
 
