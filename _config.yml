@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
 author:
+<<<<<<< HEAD
   name: Vuyisile Weni
+=======
+  name: Some Person
+>>>>>>> a9825a59e437176ec81c3bcdc3a94228a3b1c94b
