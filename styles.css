@@ -4,12 +4,14 @@
 
 .text-white{color: whitesmoke;}
 
-.bg{background-color: #E0E0E0;
-    background-image: url('matthieu-joannon-409754.jpg');
+.bg{background-color: rgb(1, 0, 0);
+    /* background-image: url('matthieu-joannon-409754.jpg'); */
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
-     background-size: 100% 40em;
+     height: 60%;
+     margin-top:2%;
+     background-size: cover;
     }
 
 h1{font-weight: bold;
@@ -141,13 +143,14 @@ a{
 
 .head{
     background-image: url('aziz-acharki-253909.jpg');
-    height: 400px;
+    height: 30em;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
     margin:0;
-    margin-top:45px;
+    margin-top:5%;
     padding:0;
+    background-size: cover;
    
 }
 
