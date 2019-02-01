@@ -10,11 +10,22 @@
   <title>The Coding Ground</title>
   <style>
     img {
-      width: 300px
+      width: 60%
     }
-    label{
+
+    label {
       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-      font-size: 90px;
+      font-size: 90%;
+    }
+
+    center>div {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-gap: 10px;
+      grid-auto-rows: minmax(100px, auto);
+    }
+    center>div>div {
+    margin-bottom: 30%;
     }
   </style>
 </head>
@@ -27,23 +38,26 @@
     </blockquote>
 
     <h1>React Projects</h1>
-    <label for="Recipe-Box">Recipe-Box</label>
     <div>
-      <a href="https://vuyisile.github.io/recipe-box/" target="_blank">
-        <img src="recipe-box.png" alt="Recipe-Box">
-      </a>
-    </div>
-    <label for="Markdown-Previewer">Markdown-Previewer</label>
-    <div>
-      <a href="https://vuyisile.github.io/markdown-previewer/" target="_blank">
-        <img src="md-previewer.png" alt="Markdown-Previewer">
-      </a>
-    </div>
-    <label for="game-of-life">Game Of Life</label>
-    <div>
-      <a href="https://vuyisile.github.io/game-of-life/" target="_blank">
-        <img src="game-of-life.png" alt="game-of-life">
-      </a>
+
+      <div>
+        <label for="Recipe-Box">Recipe-Box</label><br />
+        <a href="https://vuyisile.github.io/recipe-box/" target="_blank">
+          <img src="recipe-box.png" alt="Recipe-Box">
+        </a>
+      </div>
+      <div>
+        <label for="Markdown-Previewer">Markdown-Previewer</label><br />
+        <a href="https://vuyisile.github.io/markdown-previewer/" target="_blank">
+          <img src="md-previewer.png" alt="Markdown-Previewer">
+        </a>
+      </div>
+      <div>
+        <label for="game-of-life">Game Of Life</label><br />
+        <a href="https://vuyisile.github.io/game-of-life/" target="_blank">
+          <img src="game-of-life.png" alt="game-of-life">
+        </a>
+      </div>
     </div>
   </center>
 </body>
