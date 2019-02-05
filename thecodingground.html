@@ -6,6 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <script src="https://p.trellocdn.com/embed.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous">
 
   <title>The Coding Ground</title>
   <style>
@@ -29,14 +31,50 @@
     center>div>div {
       margin-bottom: 10%;
     }
+
+    body {
+      background-color: rgb(0, 0, 0);
+      color: white;
+    }
+    .border-outline{
+      background-color: rgb(97, 105, 105);
+      margin:5%;
+      border: solid 3px;
+      border-radius: 6px;
+      border-color: rgb(119, 129, 129);
+    }
+    .txt-color{
+      color:white;
+    }
+    .m-top{
+      margin-top:5%;
+    }
+    .trello{
+      color:grey;
+    }
+    nav{
+      z-index: 10;
+      position: fixed;
+    }
+
   </style>
 </head>
 
 <body>
   <center>
-    <h1>React Projects</h1>
-    <div>
+    <nav class="navbar navbar-dark bg-dark nav-fixed">
+     
+        <li class="nav-item btn bg-light">
+            <a class="nav-link trello" href="https://trello.com/b/oPaelsmZ/the-coding-ground-goal-timeline">GoalTimeLine on Trello Board</a>
+        </li>
+    
+      <span  class="navbar-text ">
+        Vuyisile Mark Weni
+      </span>
+    </nav>
 
+    <h1 class="m-top">React Projects</h1>
+    <div class='border-outline'>
       <div>
         <label for="Recipe-Box">Recipe-Box</label><br />
         <a href="https://vuyisile.github.io/recipe-box/" target="_blank">
@@ -56,16 +94,14 @@
         </a>
       </div>
       <div>
-          <label for="game-of-life">FreeCodeCamp-Leaderboard</label><br />
-          <a href="https://vuyisile.github.io/leaderboard" target="_blank">
-            <img src="leaderboard.png" alt="leaderboard">
-          </a>
-        </div>
+        <label for="game-of-life">FreeCodeCamp-Leaderboard</label><br />
+        <a href="https://vuyisile.github.io/leaderboard" target="_blank">
+          <img src="leaderboard.png" alt="leaderboard">
+        </a>
+      </div>
     </div>
-    <h1>Trello Board</h1>
-    <blockquote class="trello-board-compact">
-      <a href="https://trello.com/b/oPaelsmZ/the-coding-ground-goal-timeline">Trello Board</a>
-    </blockquote>
+    
+    
   </center>
 </body>
 
